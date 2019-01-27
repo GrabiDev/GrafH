@@ -1,4 +1,5 @@
 # GrafH
+author: Matt Grabara
 version: 1.0
 year: 2009
 
